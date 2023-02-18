@@ -58,8 +58,10 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    padding-left: 30px;
+    padding-left: 20px;
     font-size: 3.5vw;
+    padding-right: 20px;
+
 
 }
 
@@ -108,5 +110,5 @@ section#img04 {
 section#img05 {
     background-image: url(imagem/sagan.jpg);
     background-size: cover;
-    background-position: center ;
+    background-position: center;
 }
