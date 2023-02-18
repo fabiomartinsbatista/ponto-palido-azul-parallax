@@ -110,5 +110,5 @@ section#img04 {
 section#img05 {
     background-image: url(imagem/sagan.jpg);
     background-size: cover;
-    background-position: top right;
+    background-position: center center;
 }
